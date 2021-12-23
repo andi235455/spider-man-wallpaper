@@ -3,10 +3,10 @@
     {
       "status_app": "0",
       "link_redirect": "https://",
-      "admob_interid": "",
-      "admob_nativeid": "",
-      "admob_openid": "",
-      "admob_rewardid": "", 
+      "admob_interid": "ca-app-pub-7559442105607010/2703852714",
+      "admob_nativeid": "ca-app-pub-7559442105607010/2512281022",
+      "admob_openid": "ca-app-pub-7559442105607010/6259954344",
+      "admob_rewardid": "ca-app-pub-7559442105607010/3825362695", 
       "interval": 1,
       "coin_reward": 0
     }
